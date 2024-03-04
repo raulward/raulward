@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Android Apps and Python RPA
   
 <br/>  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulwarddev@gmail.com)
 
 ![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulward&show_icons=true&theme=dracula)
 
