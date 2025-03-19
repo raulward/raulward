@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python RPA
-- 🌱 I’m currently learning Kotlin, JAVA and Android
-- 👯 I’m looking to collaborate on Android Apps and Python RPA
+- 🔭 I’m currently working on IT Support;
+- 🌱 I’m currently learning SQL, Python, Machine Learning, Statistics and Data Analysis;
+- 👯 I’m looking to collaborate on Data projects.
   
 <br/>  
 
