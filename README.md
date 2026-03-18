@@ -4,9 +4,9 @@
 
 ---
 
-> **AI Engineer & AI Architect at [Algarys](https://algarys.com.br) — building custom multi-agent systems with measurable business results. I'm focused on LLM engineering, agentic architectures, and RAG pipelines. I love clean code, clean architecture, and the intersection of AI with real-world products.**
+- **AI Engineer & AI Architect at [Algarys](https://algarys.com.br) — building custom multi-agent systems with measurable business results. I'm focused on LLM engineering, agentic architectures, and RAG pipelines. I love clean code, clean architecture, and the intersection of AI with real-world products.**
 
-> Reach out to me at **GitHub** or **LinkedIn** for collaborations, freelance work, or just to talk AI.
+- Reach out to me at **GitHub** or **LinkedIn** for collaborations, freelance work, or just to talk AI.
 
 ---
 
@@ -33,9 +33,9 @@
 
 | | |
 |---|---|
-| ![Raul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulward&show_icons=true&theme=default&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raulward&layout=compact&theme=default&hide_border=true) |
+| ![Raul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulward&show_icons=true&theme=github_dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raulward&layout=compact&theme=github_dark&hide_border=true) |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=raulward&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=raulward&theme=github-dark&hide_border=true)
 
 ---
 
@@ -44,7 +44,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[Multi-Agents Financial Analysis](https://github.com/raulward/multi-agents-tec-case)** | Multi-agent system for analyzing financial documents (earnings reports, central bank minutes) | LangGraph · FastAPI · ChromaDB · GPT-4o |
-|
 
 ---
 
@@ -55,3 +54,5 @@
 - RAG pipeline evaluation and advanced chunking strategies
 
 ---
+
+*Built with ❤️ and too much coffee in Brasília, BR*
