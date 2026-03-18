@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on IT Support;
-- 🌱 I’m currently learning SQL, Python, Machine Learning, Statistics and Data Analysis;
-- 👯 I’m looking to collaborate on Data projects.
+- 🔭 I’m currently working on AI
+- 🌱 I’m currently learning Python, AI, ML and Data Science.
+- 👯 I’m looking to collaborate on Data/AI projects.
   
 <br/>  
 
