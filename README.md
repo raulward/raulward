@@ -1,19 +1,57 @@
-### Hi there 👋
+![Status](https://img.shields.io/badge/status-building_things-brightgreen.svg)
+![Python](https://img.shields.io/badge/Python-3.12-FF1493.svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=raulward.raulward)
 
-- 🔭 I’m currently working on AI
-- 🌱 I’m currently learning Python, AI, ML and Data Science.
-- 👯 I’m looking to collaborate on Data/AI projects.
-  
-<br/>  
+---
 
-![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulward&show_icons=true&theme=dracula)
+> **AI Engineer & AI Architect at [Algarys](https://algarys.com.br) — building custom multi-agent systems with measurable business results. I'm focused on LLM engineering, agentic architectures, and RAG pipelines. I love clean code, clean architecture, and the intersection of AI with real-world products.**
 
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img align="center" alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="scikit-learning" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img align="center" alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  
-</div><br/>
+> Reach out to me at **GitHub** or **LinkedIn** for collaborations, freelance work, or just to talk AI.
+
+---
+
+## 🛠️ Tech Stack
+
+[![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-555?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
+[![OpenAI](https://img.shields.io/badge/-OpenAI_Agents_SDK-555?style=flat&logo=openai)](https://openai.com)
+[![Temporal](https://img.shields.io/badge/-Temporal-555?style=flat&logo=temporal)](https://temporal.io)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-555?style=flat&logo=rabbitmq)](https://rabbitmq.com)
+[![Qdrant](https://img.shields.io/badge/-Qdrant-555?style=flat&logo=qdrant)](https://qdrant.tech)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb)](https://mongodb.com)
+[![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)](https://redis.io)
+[![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=docker)](https://docker.com)
+[![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)](https://git-scm.com)
+[![LangChain](https://img.shields.io/badge/-LangChain-555?style=flat&logo=langchain)](https://langchain.com)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-555?style=flat&logo=pydantic)](https://docs.pydantic.dev)
+[![Poetry](https://img.shields.io/badge/-Poetry-555?style=flat&logo=poetry)](https://python-poetry.org)
+[![Linux](https://img.shields.io/badge/-Arch_Linux-555?style=flat&logo=archlinux)](https://archlinux.org)
+
+---
+
+## 📈 GitHub Stats
+
+| | |
+|---|---|
+| ![Raul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulward&show_icons=true&theme=default&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raulward&layout=compact&theme=default&hide_border=true) |
+
+![GitHub Streak](https://streak-stats.demolab.com?user=raulward&theme=default&hide_border=true)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Multi-Agents Financial Analysis](https://github.com/raulward/multi-agents-tec-case)** | Multi-agent system for analyzing financial documents (earnings reports, central bank minutes) | LangGraph · FastAPI · ChromaDB · GPT-4o |
+|
+
+---
+
+## 🧠 Currently Learning
+
+- O'Reilly: *Building Applications with AI Agents* — Albada
+- O'Reilly: *AI Engineering* — Chip Huyen
+- RAG pipeline evaluation and advanced chunking strategies
+
+---
